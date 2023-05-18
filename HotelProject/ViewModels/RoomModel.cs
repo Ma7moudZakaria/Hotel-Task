@@ -1,4 +1,4 @@
-﻿namespace HotelProject.Models;
+﻿namespace HotelProject.ViewModels;
 
 public class RoomModel
 {
