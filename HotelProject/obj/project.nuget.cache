@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FDbNd0008gCnVdLUnsKaA3pqjxxuP3wEJgl3En8tbLPbr4v9W3IOJZrIbm9hme7ZZT4we1Iy929t6tyQNPpQLg==",
+  "dgSpecHash": "g+mBDSfFE5ZgoctUjd76rvxnAl5rxT1vvM76U8C5onHBDHouJB2AjmquUHWUNCedK5zuM3IkLbKX70XDCQHGsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ma7mo\\source\\repos\\HotelProject\\HotelProject\\HotelProject.csproj",
+  "projectFilePath": "C:\\Users\\Ma7mo\\source\\repos\\Hotel-Task\\HotelProject\\HotelProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ma7mo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Ma7mo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

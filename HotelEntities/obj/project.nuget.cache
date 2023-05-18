@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KUg4/QABeQcP+/RgIs70Jxz4eXBnKs2M8eaYD/V9WL/+s8zE77Ab0oKrBUn9v7DnHDNP51QUNZkvtG4OL5fOJg==",
+  "dgSpecHash": "yHPUheP4vMSwuaoqOS2DT90HAxjevdIiSFXMvBbSqch3Pap4qNE2oCuMn78R8AaTlJtcN7iXPpWRPYTFvRl8SQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ma7mo\\source\\repos\\HotelProject\\HotelEntities\\HotelEntities.csproj",
+  "projectFilePath": "C:\\Users\\Ma7mo\\source\\repos\\Hotel-Task\\HotelEntities\\HotelEntities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ma7mo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Ma7mo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

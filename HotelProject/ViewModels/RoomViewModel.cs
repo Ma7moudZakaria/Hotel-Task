@@ -1,6 +1,6 @@
 ﻿namespace HotelProject.ViewModels;
 
-public class RoomModel
+public class RoomViewModel
 {
     public int RoomNumber { get; set; }
     public string RoomType { get; set; }

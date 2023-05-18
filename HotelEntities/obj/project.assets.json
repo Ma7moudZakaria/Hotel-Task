@@ -3229,11 +3229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ma7mo\\source\\repos\\HotelProject\\HotelEntities\\HotelEntities.csproj",
+      "projectUniqueName": "C:\\Users\\Ma7mo\\Source\\Repos\\Hotel-Task\\HotelEntities\\HotelEntities.csproj",
       "projectName": "HotelEntities",
-      "projectPath": "C:\\Users\\Ma7mo\\source\\repos\\HotelProject\\HotelEntities\\HotelEntities.csproj",
+      "projectPath": "C:\\Users\\Ma7mo\\Source\\Repos\\Hotel-Task\\HotelEntities\\HotelEntities.csproj",
       "packagesPath": "C:\\Users\\Ma7mo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ma7mo\\source\\repos\\HotelProject\\HotelEntities\\obj\\",
+      "outputPath": "C:\\Users\\Ma7mo\\Source\\Repos\\Hotel-Task\\HotelEntities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ma7mo\\AppData\\Roaming\\NuGet\\NuGet.Config",

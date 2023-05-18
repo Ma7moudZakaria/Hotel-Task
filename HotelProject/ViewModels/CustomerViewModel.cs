@@ -1,6 +1,6 @@
 ﻿namespace HotelProject.ViewModels;
 
-public class CustomerModel
+public class CustomerViewModel
 {
     public string Name { get; set; }
     public string Address { get; set; }

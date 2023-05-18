@@ -1,5 +1,5 @@
 using HotelDomain.Features.DTO.Commands;
-using HotelProject.Models;
+using HotelProject.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Net;
@@ -9,11 +9,11 @@ namespace HotelProject.Pages
 {
     public class ReservationPageModel : PageModel
     {
-        public ReservationModel ReservationModel { get; set; }
+        public ReservationViewModel ReservationModel { get; set; }
 
-        public void OnGet(ReservationModel reservationModel)
+        public void OnGet(ReservationViewModel reservationModel)
         {
-            ReservationModel = new ReservationModel
+            ReservationModel = new ReservationViewModel
             {
                 Name = reservationModel.Name,
                 Email = reservationModel.Email,

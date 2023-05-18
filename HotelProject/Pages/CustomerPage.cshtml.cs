@@ -1,10 +1,9 @@
 using HotelDomain.Features.CQRS.Commands;
-using HotelProject.Models;
+using HotelProject.ViewModels;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Text.Json;
-using System.Threading;
 
 namespace HotelProject.Pages;
 
@@ -17,7 +16,7 @@ public class CustomerPageModel : PageModel
         _mediator = mediator;
     }
 
-    [BindProperty] public CustomerModel CustomerModel { get; set; }
+    [BindProperty] public CustomerViewModel CustomerModel { get; set; }
 
     public void OnGet()
     {

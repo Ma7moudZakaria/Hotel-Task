@@ -3434,11 +3434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ma7mo\\source\\repos\\HotelProject\\HotelProject\\HotelProject.csproj",
+      "projectUniqueName": "C:\\Users\\Ma7mo\\source\\repos\\Hotel-Task\\HotelProject\\HotelProject.csproj",
       "projectName": "HotelProject",
-      "projectPath": "C:\\Users\\Ma7mo\\source\\repos\\HotelProject\\HotelProject\\HotelProject.csproj",
+      "projectPath": "C:\\Users\\Ma7mo\\source\\repos\\Hotel-Task\\HotelProject\\HotelProject.csproj",
       "packagesPath": "C:\\Users\\Ma7mo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ma7mo\\source\\repos\\HotelProject\\HotelProject\\obj\\",
+      "outputPath": "C:\\Users\\Ma7mo\\source\\repos\\Hotel-Task\\HotelProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ma7mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3455,8 +3455,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Ma7mo\\source\\repos\\HotelProject\\HotelInfrastructure\\HotelInfrastructure.csproj": {
-              "projectPath": "C:\\Users\\Ma7mo\\source\\repos\\HotelProject\\HotelInfrastructure\\HotelInfrastructure.csproj"
+            "C:\\Users\\Ma7mo\\source\\repos\\Hotel-Task\\HotelInfrastructure\\HotelInfrastructure.csproj": {
+              "projectPath": "C:\\Users\\Ma7mo\\source\\repos\\Hotel-Task\\HotelInfrastructure\\HotelInfrastructure.csproj"
             }
           }
         }

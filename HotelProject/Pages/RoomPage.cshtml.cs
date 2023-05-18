@@ -1,11 +1,9 @@
 using HotelDomain.Features.CQRS.Commands;
 using HotelDomain.Features.DTO.Commands;
-using HotelInfrastructure.Features.CQRS.Commands;
-using HotelProject.Models;
+using HotelProject.ViewModels;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using System.ComponentModel.DataAnnotations;
 using System.Text.Json;
 
 namespace HotelProject.Pages;
@@ -19,7 +17,7 @@ public class RoomPageModel : PageModel
         _mediator = mediator;
     }
 
-    [BindProperty] public RoomModel RoomModel { get; set; }
+    [BindProperty] public RoomViewModel RoomModel { get; set; }
 
     public void OnGet()
     {
