@@ -1,0 +1,12 @@
+C:\Users\Ma7mo\source\repos\HotelProject\HotelEntities\obj\Debug\net6.0\HotelEntities.csproj.AssemblyReference.cache
+C:\Users\Ma7mo\source\repos\HotelProject\HotelEntities\obj\Debug\net6.0\HotelEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ma7mo\source\repos\HotelProject\HotelEntities\obj\Debug\net6.0\HotelEntities.AssemblyInfoInputs.cache
+C:\Users\Ma7mo\source\repos\HotelProject\HotelEntities\obj\Debug\net6.0\HotelEntities.AssemblyInfo.cs
+C:\Users\Ma7mo\source\repos\HotelProject\HotelEntities\obj\Debug\net6.0\HotelEntities.csproj.CoreCompileInputs.cache
+C:\Users\Ma7mo\source\repos\HotelProject\HotelEntities\bin\Debug\net6.0\HotelEntities.deps.json
+C:\Users\Ma7mo\source\repos\HotelProject\HotelEntities\bin\Debug\net6.0\HotelEntities.dll
+C:\Users\Ma7mo\source\repos\HotelProject\HotelEntities\bin\Debug\net6.0\HotelEntities.pdb
+C:\Users\Ma7mo\source\repos\HotelProject\HotelEntities\obj\Debug\net6.0\HotelEntities.dll
+C:\Users\Ma7mo\source\repos\HotelProject\HotelEntities\obj\Debug\net6.0\refint\HotelEntities.dll
+C:\Users\Ma7mo\source\repos\HotelProject\HotelEntities\obj\Debug\net6.0\HotelEntities.pdb
+C:\Users\Ma7mo\source\repos\HotelProject\HotelEntities\obj\Debug\net6.0\ref\HotelEntities.dll

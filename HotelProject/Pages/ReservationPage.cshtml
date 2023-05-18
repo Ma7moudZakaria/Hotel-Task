@@ -1,0 +1,19 @@
+﻿@page 
+@model ReservationPageModel
+
+<h1>Step 3: Booking Confirmation Message</h1>
+
+<p>Thank you for booking your stay with us. Your booking details are as follows:</p>
+
+<ul>
+    <li><strong>Name:</strong> @Model.ReservationModel.Name</li>
+    <li><strong>Email:</strong> @Model.ReservationModel.Email</li>
+    <li><strong>Phone:</strong> @Model.ReservationModel.Phone</li>
+    <li><strong>Address:</strong> @Model.ReservationModel.Address</li>
+    <li><strong>Room Type:</strong> @Model.ReservationModel.RoomType</li>
+    <li><strong>Room Number:</strong> @Model.ReservationModel.RoomNumber</li>
+    <li><strong>Reservation Date:</strong> @Model.ReservationModel.ReservationDate</li>
+    <li><strong>Number of Nights:</strong> @Model.ReservationModel.NumberOfNights</li>
+</ul>
+
+<p>We look forward to welcoming you to our hotel. If you have any questions or concerns, please feel free to contact us.</p>

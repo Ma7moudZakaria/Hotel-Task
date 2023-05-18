@@ -1,0 +1,15 @@
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\bin\Debug\net6.0\HotelDomain.deps.json
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\bin\Debug\net6.0\HotelDomain.dll
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\bin\Debug\net6.0\HotelDomain.pdb
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\obj\Debug\net6.0\HotelDomain.csproj.AssemblyReference.cache
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\obj\Debug\net6.0\HotelDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\obj\Debug\net6.0\HotelDomain.AssemblyInfoInputs.cache
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\obj\Debug\net6.0\HotelDomain.AssemblyInfo.cs
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\obj\Debug\net6.0\HotelDomain.csproj.CoreCompileInputs.cache
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\obj\Debug\net6.0\HotelDomain.dll
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\obj\Debug\net6.0\refint\HotelDomain.dll
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\obj\Debug\net6.0\HotelDomain.pdb
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\obj\Debug\net6.0\ref\HotelDomain.dll
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\bin\Debug\net6.0\HotelEntities.dll
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\bin\Debug\net6.0\HotelEntities.pdb
+C:\Users\Ma7mo\source\repos\HotelProject\HotelDomain\obj\Debug\net6.0\HotelDomain.csproj.CopyComplete

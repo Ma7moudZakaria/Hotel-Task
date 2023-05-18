@@ -1,0 +1,23 @@
+﻿@page
+@model CustomerPageModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1>Step 1: Customer Information</h1>
+
+<form method="post">
+    <label>Name:</label>
+    <input asp-for="CustomerModel.Name" />
+
+    <label>Email:</label>
+    <input asp-for="CustomerModel.Email" />
+
+    <label>Phone:</label>
+    <input asp-for="CustomerModel.Phone" />
+
+    <label>Address:</label>
+    <input asp-for="CustomerModel.Address" />
+
+    <button type="submit">Next</button>
+</form>

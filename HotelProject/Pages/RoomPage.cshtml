@@ -1,0 +1,27 @@
+﻿@page 
+@model RoomPageModel
+
+<h1>Step 2: Choose Room Type and Specify Date and Nights Count</h1>
+
+<form method="post">
+    <label>Room Type:</label>
+    <select asp-for="RoomModel.RoomType">
+        <option value="Single">Single</option>
+        <option value="Double">Double</option>
+        <option value="Suite">Suite</option>
+    </select>
+
+    <label>Room Number:</label>
+    <input type="number" asp-for="RoomModel.RoomNumber" />
+
+    <label>Floor:</label>
+    <input type="number" asp-for="RoomModel.Floor" />
+
+    <label>Price Per Night:</label>
+    <input type="number" asp-for="RoomModel.PricePerNight" />
+
+    <label>Number Of Beds:</label>
+    <input type="number" asp-for="RoomModel.NumberOfBeds" />
+
+    <button type="submit">Next</button>
+</form>
